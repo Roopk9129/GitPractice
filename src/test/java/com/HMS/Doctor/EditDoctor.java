@@ -1,9 +1,10 @@
 package com.HMS.Doctor;
 
-public class EditDoctor {
+import org.testng.annotations.Test;
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+public class EditDoctor {
+@Test
+	public void M1() {
 		
 
 	}
